@@ -1,4 +1,4 @@
-# CSV Aggregation Tool
+# CSV File Data Aggregation Script
 
 A simple CLI tool for aggregating CSV data using Python.
 
